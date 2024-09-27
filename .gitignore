@@ -1,0 +1,5 @@
+
+.DS_Store
+src/__pycache__/dataunderstanding.cpython-312.pyc
+src/transformations/__pycache__/values.cpython-312.pyc
+src/transformations/__pycache__/__init__.cpython-312.pyc
